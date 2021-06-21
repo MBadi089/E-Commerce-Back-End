@@ -1,7 +1,6 @@
 {
   "name": "package.json",
   "version": "1.0.0",
-  "description": "",
   "main": "server.js",
   "dependencies": {
     "dotenv": "^10.0.0",
@@ -22,5 +21,6 @@
   "bugs": {
     "url": "https://github.com/MBadi089/E-Commerce-Back-End/issues"
   },
-  "homepage": "https://github.com/MBadi089/E-Commerce-Back-End#readme"
+  "homepage": "https://github.com/MBadi089/E-Commerce-Back-End#readme",
+  "description": ""
 }
